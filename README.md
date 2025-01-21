@@ -10,12 +10,14 @@ Soy estudiante en la **Universidad Tecnológica X-J**, donde curso la carrera de
 - **Frontend:** HTML, CSS, JavaScript  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)   
 - **Backend:** Node.js  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
   
 - **Bases de datos:** MySQL  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C6C?style=flat-square&logo=mysql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C6C?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)    
 
 Actualmente, estoy tomando un curso de **Node.js**, que me ha despertado un gran interés por el backend. Sin embargo, también quiero expandir mis conocimientos hacia el **frontend** y la **documentación técnica**, para lograr un equilibrio entre ambas áreas y mejorar la experiencia de usuario en cada proyecto que desarrolle.  
 
