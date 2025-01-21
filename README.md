@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/96/c4/1d/96c41d290b7a0cd5d80ceebc3aaf9d15.gif" width="300" height="380" alt="GIF divertido">
 </div>
 
-Soy estudiante en la **Universidad Tecnológica de Xicotepec de Juárez**, donde curso la carrera de **Desarrollo de Software Multiplataforma** como **Técnico Superior Universitario (TSU)**. Mi enfoque actual está en adquirir habilidades tanto en backend como en frontend, con el objetivo de convertirme en un desarrollador completo y versátil.  
+Soy estudiante en la **Universidad Tecnológica X-J**, donde curso la carrera de **Desarrollo de Software Multiplataforma** como **Técnico Superior Universitario (TSU)**. Mi enfoque actual está en adquirir habilidades tanto en backend como en frontend, con el objetivo de convertirme en un desarrollador completo y versátil.  
 
 ### 🚀 Tecnologías y herramientas que estoy aprendiendo:  
 - **Frontend:** HTML, CSS, JavaScript  
